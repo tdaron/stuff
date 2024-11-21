@@ -1,0 +1,5 @@
+> En biochimie, le diagramme de Lineweaver-Burk est une représentation graphique permettant d'étudier la cinétique de réactions enzymatiques. Il est nommé ainsi d'après les biochimistes américains Hans Lineweaver (en) et Dean Burk, qui ont publié en 1934 leurs premiers travaux à ce sujet. Le graphique est aussi appelé "double réciproque", puisque les deux axes du graphique représentent les inverses de grandeurs pertinentes : en abscisse, l'inverse de la concentration du substrat, en ordonnée l'inverse de la vitesse de réaction. 
+>
+> Le diagramme de Lineweaver-Burk permet, en mesurant la vitesse d'une réaction pour différentes concentrations de substrat, d'identifier Km et Vmax : les données forment une droite sur le graphe, qui intersecte l'axe des abscisses au point -1/Km, et l'axe des ordonnées au point 1/Vmax.
+>
+> [Wikipedia](https://fr.wikipedia.org/wiki/Diagramme%20de%20Lineweaver%E2%80%93Burk)

@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Border",
+  "enabledCssSnippets": [
+    "images",
+    "callout"
+  ],
+  "interfaceFontFamily": "Gilmer",
+  "textFontFamily": "Gilmer",
+  "theme": "obsidian"
+}

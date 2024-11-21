@@ -1,0 +1,8 @@
+.callout[data-callout="nice"] {
+    position: relative;
+    padding: 20px 10px;
+    background: rgba(26, 188, 156,.2);
+    color: white !important;
+    mix-blend-mode: normal;
+      & > .callout-title { color: inherit; }
+}
